@@ -1,0 +1,27 @@
+{
+    "name": "okurache_lem_in",
+    "author": "Oleh Kurachenko",
+    "version": "0.0.1",
+    "description": "Study project from UNIT Factory (aka 42School Kiev)",
+    "url": "https://github.com/OlehKurachenko/Lem_in",
+    "email": "oleh.kurachenko@gmail.com",
+    "dependencies": {
+        "okurache_libftin": {
+            "type": "git-c3pm",
+            "url": "https://github.com/OlehKurachenko/libftin.git",
+            "version": "master"
+        },
+        "okurache_libft": {
+            "type": "git-c3pm",
+            "url": "https://github.com/OlehKurachenko/Libft.git",
+            "version": "master"
+        },
+        "okurache_ft_printf": {
+            "type": "git-c3pm",
+            "url": "https://github.com/OlehKurachenko/ft_printf.git",
+            "version": "master"
+        }
+    },
+    "c3pm_version": "v0.2",
+    "whatIsC3pm": "https://github.com/c3pm/c3pm"
+}
